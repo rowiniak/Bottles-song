@@ -1,4 +1,4 @@
-package com.company;
+package com.rowiniak;
 
 public class Main {
 
